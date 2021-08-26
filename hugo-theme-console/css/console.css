@@ -168,6 +168,13 @@ figure {
     color: var(--global-font-color);
 }
 
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
 .image-grid {
     display: grid;
     grid-template-rows: auto;
