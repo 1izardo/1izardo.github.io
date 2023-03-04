@@ -1,0 +1,1 @@
+{"version":3,"file":"isElHasProperty.js","sourceRoot":"","sources":["../../../contextCursor/chunks/isElHasProperty.ts"],"names":[],"mappings":";;AAAA,0CAAqC;AAErC,IAAM,eAAe,GAAG,UAAC,EAAe,EAAE,QAAgB;IACxD,IAAI,EAAE,CAAC,YAAY,CAAC,mBAAS,CAAC,QAAQ,CAAC,CAAC,QAAQ,CAAC,QAAQ,CAAC,EAAE;QAC1D,OAAO,IAAI,CAAC;KACb;SAAM;QACL,OAAO,KAAK,CAAC;KACd;AACH,CAAC,CAAC;AAEF,kBAAe,eAAe,CAAC"}
