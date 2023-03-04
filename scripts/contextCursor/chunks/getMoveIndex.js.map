@@ -1,1 +1,0 @@
-{"version":3,"file":"getMoveIndex.js","sourceRoot":"","sources":["../../../contextCursor/chunks/getMoveIndex.ts"],"names":[],"mappings":";;AAAA,IAAM,YAAY,GAAG,UACnB,mBAA2B,EAC3B,UAAkB,EAClB,WAAmB,EACnB,aAAqB;IAErB,IAAI,WAAW,GAAG,mBAAmB,GAAG,UAAU,CAAC;IACnD,OAAO,CAAC,WAAW,GAAG,WAAW,GAAG,CAAC,CAAC,GAAG,aAAa,CAAC;AACzD,CAAC,CAAC;AAEF,kBAAe,YAAY,CAAC"}
