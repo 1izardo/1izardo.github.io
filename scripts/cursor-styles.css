@@ -1,0 +1,36 @@
+:root {
+  --main-cursor-bg: rgba(0, 0, 0, 0.2);
+  --main-cursor-hover-bg: rgba(0, 0, 0, 0.07);
+  --precision-cursor-bg: #871ae0;
+  --ghost-shadow: 0 7px 15px rgba(0, 0, 0, 0.14);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.c-cursor {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  border-radius: 100%;
+  background-color: var(--main-cursor-bg);
+  transition: background-color 0.2s ease-in-out;
+}
+
+.c-cursor.active {
+  background-color: var(--main-cursor-hover-bg);
+}
+
+.c-cursor.lift.active {
+  background-color: transparent;
+}
+
+.p-cursor {
+  border-radius: 100%;
+  background-color: var(--precision-cursor-bg);
+  position: fixed;
+  pointer-events: none;
+  z-index: 10000;
+}
